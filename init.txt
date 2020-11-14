@@ -1,0 +1,2 @@
+# init
+Hola. Este es un fichero de inicio
