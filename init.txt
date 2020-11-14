@@ -1,2 +1,3 @@
 # init
-Hola. Este es un fichero de inicio
+Hola. Este es un fichero de inicio. VErsion 2
+VErsion 3
